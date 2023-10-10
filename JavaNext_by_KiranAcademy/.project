@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaNext_by_KiranAcademy</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>JDBC</name>
+			<type>2</type>
+			<location>D:/eclipse_workspace/JavaNext_by_KiranAcademy/mysql-connector-j-8.0.31/com/mysql/cj/jdbc</location>
+		</link>
+	</linkedResources>
+</projectDescription>
